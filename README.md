@@ -1,5 +1,5 @@
 # card-combination-tests
-Algorithms for winner card combinations
+Algorithms of winning card combinations
 
 Better use QtCreator for building and running.
         
